@@ -1,0 +1,7 @@
+{
+  "name": "SparkyLearning - Grade 1 AI Adventure",
+  "description": "An interactive AI-powered educational app for Grade 1 students, teaching Math and English through games, storytelling, and personalized feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
